@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sophomores">
+    <title>Admission into the Major</title>
+    <shortdesc>Before a student can take upper level ISyE classes, they must be admitted into the
+        major. This guide is framed around students, typically sophomores, who need help declaring
+        their major as ISyE.</shortdesc>
+    <conbody>
+        <p><b>Before the meeting:</b><ol id="ol_k53_j32_qjb">
+                <li>Print the student's current Academic Process Audit Summary (APAS) report.</li>
+                <li>From the APAS report, verify which entry level ISyE required courses have been
+                    completed.</li>
+                <li>Mark off the student's completed courses on the ISyE four-year sample program.
+                    This guide will provide students with an easy-to-read planning tool to determine
+                    which classes to prioritize for admission acceptance.</li>
+            </ol></p>
+        <p/>
+        <p><b>During the meeting:</b><ol id="ol_bpy_532_qjb">
+                <li>Review the ISyE four-year sample program with the student to map out an
+                    admission to the major plan.</li>
+                <li>Summarize notes from the meeting, which can include:<ol id="ol_jvq_x32_qjb">
+                        <li>A course plan</li>
+                        <li>Internship search plan</li>
+                        <li>Referrals</li>
+                        <li>Extenuating circumstances regarding a student's academic situation</li>
+                    </ol></li>
+            </ol></p>
+        <p/>
+        <p><b>After the meeting:</b><ol id="ol_px2_dj2_qjb">
+                <li>Log the meeting notes into APLUS.</li>
+                <li>If there are any follow-up communications, either schedule or perform them.</li>
+            </ol></p>
+        <p/>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_gcs_kk2_qjb">
+                <title>Questions to consider:</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.22*"/>
+                    <thead>
+                        <row>
+                            <entry>Questions</entry>
+                            <entry>Answers</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>What qualities make a good ISyE major candidate?</entry>
+                            <entry>A student should have a strong interest in analytical thinking,
+                                business applications, and a strong mathematical and statistics
+                                background.</entry>
+                        </row>
+                        <row>
+                            <entry>What admission requirements must be met to be accepted into the
+                                ISyE major?</entry>
+                            <entry>A student must have a 2.0 GPA in the following technical
+                                    courses:<ul id="ul_pwy_rk2_qjb">
+                                    <li>PHYS 1302W—Intro to Physics II</li>
+                                    <li>CHEM 1065—Chem Principles I Lab</li>
+                                    <li>CHEM 1065—Chem Prinicples I</li>
+                                    <li>MATH 2374—Multivariable Calculus</li>
+                                    <li>IE 1101—Foundations of ISyE</li>
+                                    <li>IE 2021—Engineering Econ</li>
+                                </ul></entry>
+                        </row>
+                        <row>
+                            <entry>What is the date range for students to apply?</entry>
+                            <entry>The major application period opens each year on October 1 and
+                                closes December 30.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <p><b>ADDITIONAL RESOURCES:</b><ul id="ul_sqh_2l2_qjb">
+                <li>ISyE Undergraduate Program brochure</li>
+                <li>Career Services guide</li>
+                <li>ISyE four-year-sample program</li>
+                <li>Technical Electives list</li>
+            </ul></p>
+    </conbody>
+</concept>

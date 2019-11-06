@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="juniors">
+    <title>Choosing Technical Electives</title>
+    <shortdesc>Students within the ISyE major are required to take at least five (5) technical
+        elective courses to earn their degree. These courses allow a student to build a speciality
+        area, or focus, into their program, which can prepare them for their desired career.
+        Typically, juniors need this guidance as most of their technical courses are taken in their
+        senior year, as shown in the ISyE four-year sample program.</shortdesc>
+    <conbody>
+        <p><b>Before the meeting:</b><ol>
+                <li>Print the student's current Academic Process Audit Summary (APAS) report.</li>
+                <li>From the APAS report, verify which entry level ISyE required courses have been
+                    completed.</li>
+                <li>Mark off the student's completed courses on the ISyE four-year sample program.
+                    This guide will provide students with an easy-to-read planning tool to determine
+                    when they will register for their chosen technical elective courses..</li>
+            </ol></p>
+        <p/>
+        <p><b>During the meeting:</b><ol id="ol_wpl_xl2_qjb">
+                <li>To gain an understanding of a student's career interests, start by asking any of
+                    these questions:<ul id="ul_w31_bm2_qjb">
+                        <li>What courses have you enjoyed?</li>
+                        <li>What courses have you not enjoyed?</li>
+                        <li>What courses do you feel you excelled in?</li>
+                        <li>Have you had any internship experience? If so, where and what was your
+                            job title?</li>
+                    </ul></li>
+                <li>Then pull out the Technical Electives list. Based on the student's answers from
+                    the questions above, begin to narrow down the course options that match with
+                    their interests.</li>
+                <li>If necessary, pull out the Career Services guide and run down the example job
+                    titles typical of ISyE graduates. Use the student's responses to further narrow
+                    down which courses they should take and what internship opportunities they
+                    should consider.<p><b>NOTE:</b> Sometimes it helps to read through course
+                        descriptions with the student for each technical elective of interest.
+                        Consider leaving the student with five or six courses to mull over in the
+                        time after the advising appointment. Suggest they make a follow-up
+                        appointment within ten (10) days of the date of the current
+                    appointment.</p></li>
+                <li>Provide the student with the Technical Elective form.</li>
+            </ol></p>
+        <p/>
+        <p><b>After the meeting:</b><ol id="ol_hqv_2n2_qjb">
+                <li>Log the meeting notes into APLUS.</li>
+                <li>If there are any follow-up communications, either schedule or perform them.</li>
+            </ol></p>
+        <p/>
+        <table frame="all" rowsep="1" colsep="1" id="table_abd_jn2_qjb">
+            <title>Questions to consider</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Question</entry>
+                        <entry>Answer</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>When are Technical Elective forms due?</entry>
+                        <entry>Each student's Technical Elective form needs to be completed by the
+                            last day of their junior year, or two semesters prior to their intended
+                            graduation day.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p><b>ADDITIONAL RESOURCES:</b><ul id="ul_sqh_2l2_qjb">
+                <li>Career Services guide</li>
+                <li>ISyE four-year-sample program</li>
+                <li>Technical Electives list</li>
+                <li>Technical Elective form</li>
+            </ul></p>
+    </conbody>
+</concept>

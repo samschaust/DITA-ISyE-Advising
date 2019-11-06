@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="seniors">
+    <title>Choosing Career Outcomes</title>
+    <shortdesc>Shortly after a student has laid out their technical elective roadmap, they will need
+        to begin making post-graduation plans. This guide is intended to fascilitate those
+        questions, which will largely be directed toward seniors in the ISyE program.</shortdesc>
+    <conbody>
+        <p><b>Before the meeting:</b><ol id="ol_khs_h1l_qjb">
+                <li>Print the student's current Academic Process Audit Summary (APAS) report.</li>
+                <li>From the APAS report, verify which entry level ISyE required courses have been
+                    completed.</li>
+                <li>Mark off the student's completed courses on the ISyE four-year sample program.
+                    This guide will provide students with an easy-to-read planning tool to ensure
+                    they graduate on time.</li>
+            </ol></p>
+        <p/>
+        <p><b>During the meeting:</b><ol id="ol_c44_w1l_qjb">
+                <li>Run through their APAS report and the ISyE four-year sample program to verify
+                    the student's graduation plan.</li>
+                <li>Review any final technical elective changes. A student's interests may have
+                    shifted since they were in an internship over the summer, for instance.</li>
+                <li>Verify that the student has RSVP'd for the graduation ceremony. Information
+                    about graduation day is largely sent via email.</li>
+                <li>Suggest the student shift to the Career Center for further advising. They can
+                    also choose to meet with a faculty advisor who has experience in the industry
+                    they are pursuing.</li>
+            </ol></p>
+        <p/>
+        <p><b>After the meeting:</b><ol id="ol_hdq_sbl_qjb">
+                <li>Log the meeting notes into APLUS.</li>
+                <li>If there is any follow-up communication, either schedule or perform it.</li>
+            </ol></p>
+        <p/>
+        <p>
+            <table frame="all" rowsep="1" colsep="1" id="table_wfg_ndl_qjb">
+                <title>Questions to consider</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Questions</entry>
+                            <entry>Answers</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>What events should students be aware of?</entry>
+                            <entry>The career fairs in September and February can offer
+                                post-graduation internship and hiring opportunities.</entry>
+                        </row>
+                        <row>
+                            <entry>What kind of activities should students be engaging in to be job
+                                ready?</entry>
+                            <entry>On campus there are regular industry information sessions and
+                                off-site interviews, although the timing changes year-to-year.
+                                Students should consider having their resume reviewed, learning
+                                about negotiation strategies for income and job benefits, and
+                                actively searching for networking opportunities.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <p><b>ADDITIONAL RESOURCES:</b><ul id="ul_sqh_2l2_qjb">
+                <li>Career Services guide</li>
+                <li>ISyE four-year-sample program</li>
+                <li>Technical Electives list</li>
+            </ul></p>
+    </conbody>
+</concept>
