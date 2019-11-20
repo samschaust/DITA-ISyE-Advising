@@ -68,10 +68,16 @@
             </tgroup>
         </table>
         <p><b>ADDITIONAL RESOURCES:</b><ul id="ul_sqh_2l2_qjb">
-                <li>Career Services guide</li>
-                <li>ISyE four-year-sample program</li>
-                <li>Technical Electives list</li>
-                <li>Technical Elective form</li>
+                <li><xref href="Career-Services-guide.pdf" format="pdf">Career Services
+                    guide</xref></li>
+                <li><xref href="ISyE-Four-Year-Sample-Program.pdf" format="pdf">ISyE
+                        four-year-sample program</xref></li>
+                <li><xref
+                        href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSm79xGA6Bez_fSeImuZvONzpYDBgARGS1yOu3lnFkh7kwm6RVlRX3YDpWt-h4v7sQg85O4R3XlKXTo/pubhtml"
+                        format="html" scope="external">Technical Electives list</xref></li>
+                <li><xref
+                        href="http://isye.umn.edu/undergraduate/pdf/Technical%20Elective%20Evaluation%20Form(1).pdf"
+                        format="pdf" scope="external">Technical Elective Evaluation form</xref></li>
             </ul></p>
     </conbody>
 </concept>
